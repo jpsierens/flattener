@@ -1,0 +1,15 @@
+{
+  "name": "flattener",
+  "version": "1.0.0",
+  "description": "flatten a tree of files into one level",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jean-Pierre Sierens",
+  "preferGlobal": true,
+  "bin": {
+    "flatten": "index.js"
+  },
+  "license": "MIT"
+}
